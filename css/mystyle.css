@@ -1,0 +1,16 @@
+.logo-wrapper {
+  display: flex;
+  align-items: center;
+}
+
+.logo-wrapper img{
+  flex: 1;
+}
+
+.responsive {
+  width: 23rem;
+  height: auto;
+  display: block;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
